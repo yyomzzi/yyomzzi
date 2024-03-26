@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center"> 
+  
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello,%20yyomzzi%20world!&fontSize=40&animation=twinkling)
+
+### 🔥 Welcome my github profile! 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyomzzi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yyomzzi/yyomzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
